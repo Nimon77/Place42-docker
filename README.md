@@ -1,8 +1,8 @@
-# PlaceNL-Docker
+# Place42-Docker
 
-This is the [PlaceNL autoplacer](https://github.com/PlaceNL/Userscript) wrapped in a Docker container with Firefox and Tampermonkey.
+This is the [Place42 autoplacer](https://github.com/Nimon77/Userscript) wrapped in a Docker container with Firefox and Tampermonkey.
 
-If you have never used Docker, please use the [official userscript](https://github.com/PlaceNL/Userscript), not this docker version. This repo isn't for the average user.
+If you have never used Docker, please use the [official userscript](https://github.com/Nimon77/Userscript), not this docker version. This repo isn't for the average user.
 
 ## Setup
 
